@@ -3,15 +3,6 @@
 This project is an example using the CrewAI framework to automate the process of coming up with an instagram post. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
 #### Instagram Post
-[![Instagram Post](https://img.youtube.com/vi/lcD0nT8IVTg/0.jpg)](https://www.youtube.com/watch?v=lcD0nT8IVTg "Instagram Post")
-
-By [@joaomdmoura](https://x.com/joaomdmoura)
-
-- [CrewAI Framework](#crewai-framework)
-- [Running the script](#running-the-script)
-- [Details & Explanation](#details--explanation)
-- [Using Local Models with Ollama](#using-local-models-with-ollama)
-- [License](#license)
 
 ## CrewAI Framework
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to generate a creative and trendy instagram post.
